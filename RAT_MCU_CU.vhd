@@ -1,18 +1,19 @@
 ----------------------------------------------------------------------------------
 -- Company:   CPE 233 Productions
--- Engineer:  Various Engineers
+-- Engineer:  Benjamin Davis and Kayla Foyt
 -- 
 -- Create Date:    20:59:29 02/04/2013 
--- Design Name: 
+-- Design Name: Control Unit
 -- Module Name:    RAT Control Unit
--- Project Name: 
--- Target Devices: 
+-- Project Name: Expirement 8
+-- Target Devices: BASYS 4
 -- Tool versions: 
 -- Description:  Control unit (FSM) for RAT CPU
 --
 -- Dependencies: 
 --
 -- Revision: 
+-- Revision 0.02 - File modified to contain complete set of 
 -- Revision 0.01 - File Created
 -- Additional Comments: 
 --
